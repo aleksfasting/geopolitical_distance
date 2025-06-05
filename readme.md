@@ -1,4 +1,4 @@
 # README
 
-Missing records from 2002-2022
+Missing records from 2002-2020
 
